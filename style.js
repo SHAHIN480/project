@@ -1,0 +1,1 @@
+// export const peraghrap ="font-size:30px";
